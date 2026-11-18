@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vkpoW+rRwwI=",
+  "success": true,
+  "projectFilePath": "D:\\Games\\renpy\\TaskManagerCleanArchitectureApiDotNet-main\\TaskManager.Core\\TaskManager.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fox\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.27\\microsoft.netcore.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\Fox\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.27\\microsoft.windowsdesktop.app.ref.8.0.27.nupkg.sha512",
+    "C:\\Users\\Fox\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.27\\microsoft.aspnetcore.app.ref.8.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
